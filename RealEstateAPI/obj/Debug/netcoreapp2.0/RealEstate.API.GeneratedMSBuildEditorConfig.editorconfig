@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = RealEstate.API
+build_property.ProjectDir = C:\DEV_Privat\Code_Coach\GraphQL\RealEstateGraphQL\RealEstateAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
